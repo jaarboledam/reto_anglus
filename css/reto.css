@@ -78,3 +78,12 @@ footer > h2{
 	float: right;
 	display: none;
 }
+div#about{
+	font-family:Segoe, "Segoe UI", Verdana, sans-serif;
+	width: 600px;
+	background-color: #CCC;
+	margin-top: 50px;
+}
+#about > h3{
+	margin:0;
+}
